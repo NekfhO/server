@@ -2,8 +2,11 @@
 
 
 HOST:3.121.234.98
+
 HOSTNAME:http://ec2-3-121-234-98.eu-central-1.compute.amazonaws.com
+
 link: http://ec2-3-121-234-98.eu-central-1.compute.amazonaws.com
+
 port: 2200
 
 
